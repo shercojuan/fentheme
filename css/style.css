@@ -1,0 +1,7 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+* {
+  background-color: $blue ;
+}
